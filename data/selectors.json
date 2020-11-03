@@ -1,0 +1,7 @@
+{
+  "label": ".ant-form-item-required",
+  "name": "#name",
+  "gender": ".ant-form-item-required",
+  "age": "#age",
+  "story": "#story"
+}
