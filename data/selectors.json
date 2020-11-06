@@ -1,7 +1,16 @@
 {
+  "homePage": "https://qa-apps.netlify.app/app_my_hero",
   "label": ".ant-form-item-required",
   "name": "#name",
-  "gender": ".ant-form-item-required",
+  "gender": ".ant-radio",
+  "genderType": ".ant-radio-wrapper",
   "age": "#age",
-  "story": "#story"
+  "story": ".ant-select-selector",
+  "storyPlaceholder": ".ant-select-selection-placeholder",
+  "header": "h3",
+  "description": "//h3/following-sibling::p",
+  "storyClick": ".ant-select-show-arrow",
+  "storyType": ".ant-select-item-option",
+  "story1": ".ant-select-selection-placeholder",
+  "create": ".ant-btn"
 }
