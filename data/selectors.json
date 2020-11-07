@@ -12,5 +12,6 @@
   "storyClick": ".ant-select-show-arrow",
   "storyType": ".ant-select-item-option",
   "story1": ".ant-select-selection-placeholder",
-  "create": ".ant-btn"
+  "create": ".ant-btn",
+  "tryAgain": ".btn-primary"
 }
